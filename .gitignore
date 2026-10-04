@@ -1,0 +1,8 @@
+# mac
+.DS_Store
+
+# logs
+.log
+
+# bin
+preprocessd
